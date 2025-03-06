@@ -1,3 +1,2 @@
 # estudo-java
-repositório para estudo do curso DIO de JAVA
-teste deno modificação
+repositório para estudo do curso DIO de JAVA.
